@@ -15,18 +15,19 @@ body {
 
 .container {
     display: flex;
-    width: 720px;
-    height: 550px;
+    width: 1440px;
+    height: 1001px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
-    background: #E4A880;
+    background: #9FE2BF;
 }
 
 .logo-container {
     display: flex;
     justify-content: center;
-    padding: 40px;
+    padding: 6px 12px;
+
 }
 
 .logo-container img {
